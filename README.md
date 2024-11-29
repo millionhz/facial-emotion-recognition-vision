@@ -4,3 +4,4 @@ The repository contains code for training large vision models on the [Facial Emo
 
 The base models used for training are:
 - [google/vit-base-patch16-224-in21k](https://huggingface.co/google/vit-base-patch16-224-in21k)
+- [apple/mobilevit-small](https://huggingface.co/apple/mobilevit-small)
