@@ -1,6 +1,6 @@
 # Facial Emotion Recognition
 
-The repository contains code for training large vision models on the [Facial Emotion Recognition](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) (FER) dataset.
+The repository contains code for training large vision models on the [Facial Emotion Recognition](hhttps://www.kaggle.com/datasets/msambare/fer2013) (FER) dataset.
 
-The trained models are:
+The base models used for training are:
 - [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224)
